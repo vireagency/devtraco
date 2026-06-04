@@ -1,0 +1,10 @@
+--- a/assets/css/style.css
++++ b/assets/css/style.css
+@@ -1,7 +1,7 @@
+ /* ----------  HERO  ---------- */
+ .hero {
+   position: relative;
+-  padding: clamp(1.5rem, 4vw, 3rem) 0 0;
++  padding: clamp(1.5rem, 4vw, 3rem) 0 clamp(2.5rem, 5vw, 5rem);
+   overflow: hidden;
+ }
